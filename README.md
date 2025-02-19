@@ -1,5 +1,16 @@
-⁓⁓⁓
-<!---
-Luvoos/Luvoos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```json
+{
+  "username": "Luvoos",
+  "pronouns": ["he", "him"],
+  "attributes": {
+    "intelligence": 999,
+    "strength": 999,
+    "charisma": 999
+  },
+  "interests": [
+    "minecraft plugins",
+    "large scale networks",
+    "databases",
+    "gaming"
+  ]
+}
