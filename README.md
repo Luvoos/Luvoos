@@ -11,6 +11,7 @@
     "minecraft plugins",
     "large scale networks",
     "databases",
-    "gaming"
+    "game dev",
+    "graphics"
   ]
 }
